@@ -4,3 +4,4 @@ name:varalakshmi
 course:mca
 college:anmk
 project:version control test
+affliate:jntua
